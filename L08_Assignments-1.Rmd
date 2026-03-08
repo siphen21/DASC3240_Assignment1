@@ -9,7 +9,7 @@ output: html_document
 -   StatQuest: PCA and other videos (<https://statquest.org/>)
 -   Also check the lecture slides for L02-L07
 
-# 1. Student ID and Name
+# 1. 20999489 Oliver Ryan The
 
 ## [Updated: You do not need to write your student ID and name]{style="color:red"}
 
